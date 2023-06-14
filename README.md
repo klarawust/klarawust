@@ -1,4 +1,8 @@
-### Hi there 👋
+### Heihei🗣
+
+🔭 Pågående prosjekter:
+- Lage et illustrasjonsbibliotek i Three.js som skal brukes i fremstillingen av kurs for Kateter📐
+- Fortsette utviklingen av min private nettside🧃
 
 <!--
 **klarawust/klarawust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
