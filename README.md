@@ -1,8 +1,9 @@
 ### Heihei🗣
 
-🔭 Pågående prosjekter:
-- Lage et illustrasjonsbibliotek i Three.js som skal brukes i fremstillingen av kurs for Kateter📐
-- Fortsette utviklingen av min private nettside🧃 <a href="https://www.helloklara.com">helloklara.com
+🔭Currently working on:
+- Create a illustration-library to be used in the development of Kateter-courses📐
+- Continue development of my personal website🧃 <a href="https://www.helloklara.com">helloklara.com
+- Create a website for a blog documenting my exchange-semester🦑
 
 <!--
 **klarawust/klarawust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
