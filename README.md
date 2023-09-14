@@ -3,7 +3,7 @@
 🔭Currently working on:
 - Create an illustration-library to be used in the development of Kateter-courses📐
 - Continue development of my personal website🧃 <a href="https://www.helloklara.com">helloklara.com
-- Create a website-blog documenting my exchange-semester🦑
+- Create a website-blog documenting my exchange-semester, learning Astro🦑  ...soon to be published
 
 <!--
 **klarawust/klarawust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
