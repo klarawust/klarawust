@@ -1,9 +1,10 @@
 ### Heihei🗣
 
 🔭Currently working on:
-- Create an illustration-library to be used in the development of Kateter-courses📐
+- Create a website-blog documenting my exchange-semester, learning Astro🦑 <a href="https://greekingout.blog">greekingout.blog
 - Continue development of my personal website🧃 <a href="https://www.helloklara.com">helloklara.com
-- Create a website-blog documenting my exchange-semester, learning Astro🦑  ...soon to be published
+- Create an illustration-library to be used in the development of Kateter-courses📐
+
 
 <!--
 **klarawust/klarawust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
