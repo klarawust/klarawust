@@ -2,8 +2,8 @@
 
 Currently working on:
 - Build a full-stack-app where I digitalize my favorite card-game👾 learning Bun
+- Refactoring of my personal website🧃 <a href="https://www.helloklara.com">helloklara.com
 - Create a website-blog documenting my exchange-semester, learning Astro🦑 <a href="https://greekingout.blog">greekingout.blog
-- Continue development of my personal website🧃 <a href="https://www.helloklara.com">helloklara.com
 
 <!--
 **klarawust/klarawust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
