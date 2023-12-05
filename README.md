@@ -1,8 +1,8 @@
 ### Heihei🗣
 
 Currently working on:
-- Build a full-stack-app where I digitalize my favorite card-game👾 learning Bun
-- Refactoring of my personal website🧃 <a href="https://www.helloklara.com">helloklara.com
+- Build a full-stack-app where I digitalize my favorite card-game👾 learning more about multiplayer using a server, websockets etc.
+- Refactoring my personal website🧃 <a href="https://www.helloklara.com">helloklara.com
 - Create a website-blog documenting my exchange-semester, learning Astro🦑 <a href="https://greekingout.blog">greekingout.blog
 
 <!--
