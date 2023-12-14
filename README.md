@@ -1,9 +1,9 @@
 ### Heihei🗣
 
 Currently working on:
-- Build a full-stack-app where I digitalize my favorite card-game👾 learning more about multiplayer using a server, websockets etc.
-- Refactoring my personal website🧃 <a href="https://www.helloklara.com">helloklara.com
-- Create a website-blog documenting my exchange-semester, learning Astro🦑 <a href="https://greekingout.blog">greekingout.blog
+- Build a full-stack-app where I digitalize my favorite card-game - multiplayer, learning more about servers and websockets
+- Refactoring my personal website -  <a href="https://www.helloklara.com">helloklara.com
+- Create a web-blog documenting my exchange-semester in Athens -  <a href="https://greekingout.blog">greekingout.blog
 
 <!--
 **klarawust/klarawust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
