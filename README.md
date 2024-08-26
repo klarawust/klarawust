@@ -8,7 +8,8 @@ B.Sc in Informatics at NTNU - Norwegian University of Science and Technology
 ### 👩🏼‍💻 Recent work
 
 - Part time developer for [Pango Consulting](https://www.pangoconsulting.no)
-- Summer intern at [Capra Consulting](https://www.capraconsulting.no) 
+- Summer intern at [Capra Consulting](https://www.capraconsulting.no)
+- Bachelor thesis project for [NTNU SmallSat Lab](https://www.ntnu.edu/smallsat)
 - Summer intern at [Kateter](https://kateter.no)
 - Learning assistent for NTNU in IT2805 and TDT4180
 
