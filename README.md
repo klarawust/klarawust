@@ -1,6 +1,6 @@
 ### Heihei
 
-## Education📚
+### Education📚
 
 B.Sc in Informatics at NTNU - Norwegian University of Science and Technology
 
