@@ -17,5 +17,5 @@ B.Sc in Informatics at NTNU - Norwegian University of Science and Technology
 ### 🌐 Personal projects
 
 - Personal website: [helloklara.com](https://helloklara.com)
-- Travel blog from exchange semester in Athens: [greekingout.blog](https://greekingout.blog)
+- Travel blog from exchange semester in Athens
 - Rank: digitalizing my favorite card game
