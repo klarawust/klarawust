@@ -7,6 +7,7 @@ B.Sc in Informatics at NTNU - Norwegian University of Science and Technology
 
 ### 👩🏼‍💻 Recent work
 
+- Frontend developer at [Tolletaten](https://www.toll.no/)
 - Part time developer for [Pango Consulting](https://www.pangoconsulting.no)
 - Summer intern at [Capra Consulting](https://www.capraconsulting.no)
 - Bachelor thesis project for [NTNU SmallSat Lab](https://www.ntnu.edu/smallsat)
