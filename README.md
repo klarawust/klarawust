@@ -18,6 +18,6 @@ B.Sc in Informatics at NTNU - Norwegian University of Science and Technology
 ### 🌐 Personal projects
 
 - Personal website: [helloklara.com](https://helloklara.com)
-- Website for my choir, Akademisk Korforening: [akademiskkorforening.no](https://akademiskkorforening.no)
+- Website for my choir, Akademisk Korforening: coming soon at... [akademiskkorforening.no](https://akademiskkorforening.no)
 - Travel blog from exchange semester in Athens
 - Rank: digitalizing my favorite card game
