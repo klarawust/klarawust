@@ -10,7 +10,7 @@
 - Learning assistent for NTNU in IT2805 and TDT4180
 
 
-  ### 📚 Education
+### 📚 Education
 
 B.Sc in Informatics at NTNU - Norwegian University of Science and Technology
 
